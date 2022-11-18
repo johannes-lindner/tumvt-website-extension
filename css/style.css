@@ -576,7 +576,8 @@ a:focus {
 }
 
 .about_section {
-  background-image: url(../images/TUM-VT_Background.jpg);
+  /*background-image: url(../images/TUM-VT_Background.jpg);*/
+  background-color: #0c0c0c;
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
