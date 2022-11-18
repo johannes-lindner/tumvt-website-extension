@@ -79,8 +79,7 @@ body {
 /*header section*/
 .hero_area {
   height: 120vh;
-  /*background-image: url(../images/TUM-VT_Background.jpg);*/
-  background-color: #0c0c0c;
+  background-image: url(../images/TUM-VT_Background.jpg);
   background-size: cover;
   background-position: center bottom;
   position: relative;
